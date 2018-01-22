@@ -6,7 +6,7 @@
       "+247"
     ],
     "currencies": [
-      "USD"
+      "SHP"
     ],
     "emoji": "",
     "ioc": "SHP",
@@ -662,7 +662,7 @@
       "+375"
     ],
     "currencies": [
-      "BYR"
+      "BYN"
     ],
     "emoji": "🇧🇾",
     "ioc": "BLR",
@@ -1080,7 +1080,7 @@
     "languages": [
       "ces"
     ],
-    "name": "Czech Republic",
+    "name": "Czechia",
     "status": "assigned"
   },
   {
@@ -3268,8 +3268,8 @@
       "+507"
     ],
     "currencies": [
-      "PAB",
-      "USD"
+      "USD",
+      "PAB"
     ],
     "emoji": "🇵🇦",
     "ioc": "PAN",
